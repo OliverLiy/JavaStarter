@@ -7,3 +7,10 @@
      <img src="https://github.com/OliverLiy/JavaStarter/blob/main/images/qrcode_for_gh_544708444941_344.jpg" width=""/>
 </p>
 
+目前系列博客更新在CSDN、掘金和开源中国中，欢迎关注
+<p align="center">
+  <a href="https://juejin.cn/user/3122268755736119"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
+  <a href="https://blog.csdn.net/qq_41973594"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
+  <a href="https://my.oschina.net/u/4873431"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="投稿"></a>
+</p>
+
