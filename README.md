@@ -20,10 +20,63 @@
 - 计算机核心基础
 
   - 计算机操作系统
-  
-     - [Java基础面试16问](https://mp.weixin.qq.com/s/-xFSHf7Gz3FUcafTJUIGWQ)
+     
   - 计算机网络
+     - [作为一个程序员需要了解多少网络方面的基础？网络基础总结（不断更新）](https://blog.csdn.net/qq_41973594/article/details/106533946)
   
   - 计算机组成原理
+     
+  - 数据结构
+     
+- Java核心基础
+     
+  - 基础篇
+     
+  - 集合类
+  
+  - JVM虚拟机
+  
+  - Java并发
+  
+
+- 框架的艺术
+
+  - Spring
+  
+  - Mybatis
+  
+  - SpringMVC
+  
+  - SpringCloud
+  
+  - Mq
+  
+  - Zookeeper
+  
+  - Netty
   
   
+- 这就是数据库
+
+  - Mysql
+  
+  - Redis
+  
+
+- 每个程序员都要会Linux
+
+
+- 实战项目
+
+  - 基于SpringBoot和BootStrap的论坛网址
+  
+  - 搭建基于SpringBoot的秒杀后台项目
+ 
+   
+- 开发工具大全
+
+- 我的程序人生
+
+# 祝福
+
+我一直相信一句话，**你会累是因为你在走上坡路**，希望我的这个系列文章能够帮助到点开的你
