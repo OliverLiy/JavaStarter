@@ -65,6 +65,7 @@
      - [什么是乐观锁、什么是悲观锁，两种锁在Java中的具体应用场景有哪些](https://mp.weixin.qq.com/s/3KV3kpqD45ll4H7Kmy7Clw)
      - [你能说出四种创建线程的方式吗？](https://mp.weixin.qq.com/s/XiFGVTI5--RANi5sHAIkjA)
      - [说一下runnable 和 callable 有什么区别？Future是什么？](https://mp.weixin.qq.com/s/OyCm-mM4wveceGk6Ehg9Ig)
+     - [如何让多个线程按顺序执行？](https://mp.weixin.qq.com/s/oVnkrDsFo3LjLlr03rOZnw)
      - [面试官：不会真有人不知道什么是线程池吧？](https://blog.csdn.net/qq_41973594/article/details/106982052)
      - [面试官：我问的是Java内存模型，你回答堆栈方法区干嘛？](https://mp.weixin.qq.com/s/4NHC9Fmk7eiiI8UHrnYNOA)
      - [指令重排序、内存屏障很难？看完这篇你就懂了！](https://mp.weixin.qq.com/s/YBr32zvQ00EesLRUnx__Jw)
