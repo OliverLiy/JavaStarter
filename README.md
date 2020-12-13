@@ -22,7 +22,7 @@
   - 计算机操作系统
      
   - 计算机网络
-     - [作为一个程序员需要了解多少网络方面的基础？网络基础总结（不断更新）](https://blog.csdn.net/qq_41973594/article/details/106533946)
+     - [作为一个程序员需要了解多少网络方面的基础？网络基础总结（不断更新）](https://mp.weixin.qq.com/s/C7CXHAx_6qQNEDKsqY-fxw)
   
   - 计算机组成原理
      
@@ -32,7 +32,7 @@
      
   - 基础篇
      - [final 在 java 中有什么作用？](https://mp.weixin.qq.com/s/BLP3bG1ibNM1ly0FPAQS1g)
-     - [String str=“i”与 String str=new String(“i”)一样吗？](https://blog.csdn.net/qq_41973594/article/details/109080999)
+     - [String str=“i”与 String str=new String(“i”)一样吗？](https://mp.weixin.qq.com/s/lWxKX1VVE2jQ0qi71F__Gw)
      - [两个对象的 hashCode()相同，则 equals()也一定为 true吗？](https://mp.weixin.qq.com/s/K8RuW1wsP0LRFdp8QgYFaw)
      - [抽象类必须要有抽象方法吗？抽象类能使用 final 修饰吗？](https://mp.weixin.qq.com/s/s2adv99CRvA69vFAVYAnCQ)
      - [JavaIO的整体结构以及File类的使用](https://blog.csdn.net/qq_41973594/article/details/104849452)
@@ -70,12 +70,14 @@
      - [面试官：我问的是Java内存模型，你回答堆栈方法区干嘛？](https://mp.weixin.qq.com/s/4NHC9Fmk7eiiI8UHrnYNOA)
      - [指令重排序、内存屏障很难？看完这篇你就懂了！](https://mp.weixin.qq.com/s/YBr32zvQ00EesLRUnx__Jw)
      - [Volatile只会用不知道原理？一篇文章带你深究volatile](https://mp.weixin.qq.com/s/IOD6l9s0JN9VJXNlm07yJQ)
+     - [有关synchronized锁的知识点，我用一篇文章总结了](https://mp.weixin.qq.com/s/hy42BV48RjOzkkXeDL-wZA)
      
   
 
 - 框架的艺术
 
   - Spring
+     
   
   - Mybatis
      - [Mybatis的原理介绍及超详细使用](https://blog.csdn.net/qq_41973594/article/details/109557341)
