@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://juejin.cn/user/3122268755736119"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
-  <a href="https://blog.csdn.net/qq_41973594"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
-  <a href="https://my.oschina.net/u/4873431"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="投稿"></a>
+  <a href="https://juejin.cn/user/3122268755736119"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="掘金"></a>
+  <a href="https://blog.csdn.net/qq_41973594"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
+  <a href="https://my.oschina.net/u/4873431"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="开源中国"></a>
 </p>
 
 # 目录
@@ -71,12 +71,18 @@
      - [指令重排序、内存屏障很难？看完这篇你就懂了！](https://mp.weixin.qq.com/s/YBr32zvQ00EesLRUnx__Jw)
      - [Volatile只会用不知道原理？一篇文章带你深究volatile](https://mp.weixin.qq.com/s/IOD6l9s0JN9VJXNlm07yJQ)
      - [有关synchronized锁的知识点，我用一篇文章总结了](https://mp.weixin.qq.com/s/hy42BV48RjOzkkXeDL-wZA)
-     
+     - [面试被问AQS、ReentrantLock答不出来？这些知识点让我和面试官聊了半小时！](https://mp.weixin.qq.com/s/9BgfaYAdA-XrnzBSeDj5BQ)
   
 
 - 框架的艺术
 
   - Spring
+     - [Spring的艺术（一）重新带你走进Spring](https://blog.csdn.net/qq_41973594/article/details/110846401)
+     - [Spring的艺术（二）：控制反转(IOC)和依赖注入(DI)的完美实现](https://blog.csdn.net/qq_41973594/article/details/110907361)
+     - [Spring的艺术（三）：关于Spring中的Bean，一文搞定](https://blog.csdn.net/qq_41973594/article/details/111020865)
+     - [Spring的艺术（四）：Spring5竟然可以彻底抛弃xml配置](https://blog.csdn.net/qq_41973594/article/details/111087086)
+     - [Spring的艺术（五）：通俗易懂的AOP切面详解](https://blog.csdn.net/qq_41973594/article/details/111145727)
+     - [Spring的艺术（六）：一文搞定Spring整合Mybatis](https://blog.csdn.net/qq_41973594/article/details/111187366)
      
   
   - Mybatis
@@ -123,6 +129,7 @@
 - 这就是数据库
 
   - Mysql
+     - [一文汇总数据库基础知识点！](https://mp.weixin.qq.com/s/Sq522MHEBc5WgR3ngywJ6Q)
      - [Mysql的索引调优详解：如何去创建索引以及避免索引失效](https://blog.csdn.net/qq_41973594/article/details/105045799)
      - [都2020年了，你还不知道count(1)和count(*)谁效率更高吗？](https://blog.csdn.net/qq_41973594/article/details/106796388)
   
@@ -166,6 +173,9 @@
      - [(六)：使用RabbitMQ让订单指定时间后失效](https://blog.csdn.net/qq_41973594/article/details/107946207)
      - [(七)：高并发导致超卖问题分析处理](https://blog.csdn.net/qq_41973594/article/details/108030153)
      - [(八)：通过分布式锁解决多线程导致的问题](https://blog.csdn.net/qq_41973594/article/details/108030244)
+     
+  - 基于SpringBoot和Redis实现短信验证码功能
+     - [基于SpringBoot和Redis实现短信验证码功能](https://mp.weixin.qq.com/s/_-tRSbB6leHUOfaObseZHg)
      
  
    
