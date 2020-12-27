@@ -11,6 +11,7 @@
   <a href="https://juejin.cn/user/3122268755736119"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="掘金"></a>
   <a href="https://blog.csdn.net/qq_41973594"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
   <a href="https://my.oschina.net/u/4873431"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="开源中国"></a>
+  
 </p>
 
 # 目录
@@ -46,6 +47,7 @@
      - [看完这篇类的实例化顺序，考执行顺序的面试题就难不倒你了](https://mp.weixin.qq.com/s/iuVsZmN6P3CY6dnFHmqoeQ)
      - [什么是接口的幂等性，如何实现接口幂等性？一文搞定](https://mp.weixin.qq.com/s/DQ_5uydWw9MelzgeFS45Wg)
      - [线程的 run()和 start()有什么区别？sleep() 和 wait() 有什么区别？](https://mp.weixin.qq.com/s/HE-vK8GR9xI9HeKWS476Jw)
+     - [Java16都快上线了，你该不会连Java8的特性都不会用吧？](https://mp.weixin.qq.com/s/V_dYpY6KWpq1qyVV2rwKTA)
      
   - 集合类
      - [java集合掌握多少才算合格](https://mp.weixin.qq.com/s/pG3PwS4IKqUIqJGYSmxtzg)
@@ -72,6 +74,7 @@
      - [Volatile只会用不知道原理？一篇文章带你深究volatile](https://mp.weixin.qq.com/s/IOD6l9s0JN9VJXNlm07yJQ)
      - [有关synchronized锁的知识点，我用一篇文章总结了](https://mp.weixin.qq.com/s/hy42BV48RjOzkkXeDL-wZA)
      - [面试被问AQS、ReentrantLock答不出来？这些知识点让我和面试官聊了半小时！](https://mp.weixin.qq.com/s/9BgfaYAdA-XrnzBSeDj5BQ)
+     - [大厂面试题：你知道JUC中的Semaphore、CyclicBarrier、CountDownLatch吗](https://mp.weixin.qq.com/s/kQLUuesGE9xshMfULXeYUA)
   
 
 - 框架的艺术
