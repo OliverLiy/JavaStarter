@@ -75,6 +75,7 @@
      - [有关synchronized锁的知识点，我用一篇文章总结了](https://mp.weixin.qq.com/s/hy42BV48RjOzkkXeDL-wZA)
      - [面试被问AQS、ReentrantLock答不出来？这些知识点让我和面试官聊了半小时！](https://mp.weixin.qq.com/s/9BgfaYAdA-XrnzBSeDj5BQ)
      - [大厂面试题：你知道JUC中的Semaphore、CyclicBarrier、CountDownLatch吗](https://mp.weixin.qq.com/s/kQLUuesGE9xshMfULXeYUA)
+     - [产品经理问我：手动创建线程不香吗，为什么非要用线程池呢？](https://mp.weixin.qq.com/s/51x1QlbDAiRkCUffpIYcNQ)
   
 
 - 框架的艺术
@@ -135,6 +136,8 @@
      - [一文汇总数据库基础知识点！](https://mp.weixin.qq.com/s/Sq522MHEBc5WgR3ngywJ6Q)
      - [Mysql的索引调优详解：如何去创建索引以及避免索引失效](https://blog.csdn.net/qq_41973594/article/details/105045799)
      - [都2020年了，你还不知道count(1)和count(*)谁效率更高吗？](https://blog.csdn.net/qq_41973594/article/details/106796388)
+     - [图解Mysql索引的数据结构！看不懂你来找我](https://mp.weixin.qq.com/s/AruIsVouwMJo5zNrxHAxYA)
+     - [白话Mysql的锁和事务隔离级别！死锁、间隙锁你都知道吗？](https://mp.weixin.qq.com/s/lDeEDkXZ85wNpg5Qi9ArnQ)
   
   - Redis
      - [redis入门到精通系列（一）：入门redis看这一篇就够了](https://mp.weixin.qq.com/s/T4nUo0PU9cN7qpWW5jw3UA)
@@ -184,6 +187,7 @@
    
 - 开发工具大全
      - [一个包含多种Get请求和Post请求的工具类](https://blog.csdn.net/qq_41973594?spm=1000.2115.3001.5113)
+     - [如何用Java写一个规范的http接口？](https://mp.weixin.qq.com/s/hChsFGHG8hhXs5Ott7zfbg)
 
 - 我的程序人生
      - [作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
@@ -191,6 +195,7 @@
      - [JAVA实习生刚进公司主要做些什么？以及进入职场后我的心理变化](https://blog.csdn.net/qq_41973594/article/details/105565105)
      - [工作中只需要增删改查的程序员，别安于现状](https://blog.csdn.net/qq_41973594/article/details/109541193)
      - [坚持写技术博客，我得到了什么？](https://blog.csdn.net/qq_41973594/article/details/110147766)
+     - [从考研失败到最具成长力员工，这个2020就像过山车一样](https://mp.weixin.qq.com/s/MdOxoVwmy5V_10OeyuXvAQ)
      
 
 # 祝福
