@@ -126,6 +126,7 @@
      - [RabbitMQ消息确认机制](https://blog.csdn.net/qq_41973594/article/details/104562486)
   
   - Zookeeper
+     - [Zookeeper实现分布式锁的原理是什么？](https://mp.weixin.qq.com/s/dLf288J_sG72EKuo_B4FeA)
   
   - Netty
   
@@ -154,7 +155,13 @@
      - [redis入门到精通系列（十二）：看完这一篇文章别再说不懂布隆过滤器](https://mp.weixin.qq.com/s/Z0Td6XgQ36imsQaIN-YzmA)
   
 
+- 分布式与微服务
+  - [分布式集群环境下，如何实现每个服务的登陆认证？](https://mp.weixin.qq.com/s/Q2rTXL79bwJ0RFMcQOw3Cg)
+  - [你知道JWT是什么吗？它和Session的区别又在哪里？](https://mp.weixin.qq.com/s/-esLgvXzFgvAAJ6zGKLVgQ)
+  - []()
+
 - 每个程序员都要会Linux
+  - [作为一个后端开发，你需要了解多少Nginx的知识？](https://mp.weixin.qq.com/s/YyZjC50zASkpbkq_28NnFA)
 
 
 - 实战项目
@@ -180,14 +187,17 @@
      - [(七)：高并发导致超卖问题分析处理](https://blog.csdn.net/qq_41973594/article/details/108030153)
      - [(八)：通过分布式锁解决多线程导致的问题](https://blog.csdn.net/qq_41973594/article/details/108030244)
      
-  - 基于SpringBoot和Redis实现短信验证码功能
+  - 基于SpingBoot开发的小功能
      - [基于SpringBoot和Redis实现短信验证码功能](https://mp.weixin.qq.com/s/_-tRSbB6leHUOfaObseZHg)
+     - [基于SpringBoot实现文件的上传下载](https://mp.weixin.qq.com/s/TLGkvRxs4JWB9XXDJ4xd_A)
      
  
    
 - 开发工具大全
      - [一个包含多种Get请求和Post请求的工具类](https://blog.csdn.net/qq_41973594?spm=1000.2115.3001.5113)
      - [如何用Java写一个规范的http接口？](https://mp.weixin.qq.com/s/hChsFGHG8hhXs5Ott7zfbg)
+     - [一个成熟的Java项目如何优雅地处理异常](https://mp.weixin.qq.com/s/QzmBosy4LpdHWRqjwq7JIA)
+     - [项目经理最近感觉系统慢了，想知道整个系统每个方法的执行时间](https://mp.weixin.qq.com/s/N-_bYqcoD3ymOFNAeUWBIA)
 
 - 我的程序人生
      - [作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
