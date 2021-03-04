@@ -21,6 +21,7 @@
 - 计算机核心基础
 
   - 计算机操作系统
+     - [Java程序员需要知道的操作系统知识汇总（持续更新）](https://mp.weixin.qq.com/s/0XyKUCugehepzl7IRg0RVA)
      
   - 计算机网络
      - [作为一个程序员需要了解多少网络方面的基础？网络基础总结（不断更新）](https://mp.weixin.qq.com/s/C7CXHAx_6qQNEDKsqY-fxw)
@@ -62,6 +63,8 @@
      - [关于垃圾收集器你了解多少？一文总结七大垃圾收集器](https://mp.weixin.qq.com/s/Qj9BJvlp_X2qpohX0w-ILA)
      - [图解类加载器和双亲委派机制，一看就懂](https://mp.weixin.qq.com/s/U41G0R-SNqNKaMEksuj78A)
      - [类加载的全过程，我给大家理一理](https://mp.weixin.qq.com/s/ys1_2panH5RQiACRNcGfXA)
+     - [关于JVM调优，我理了一些工具和思路出来](https://mp.weixin.qq.com/s/XzHJiQ-zmY3uyjYZiFcsDw)
+     - 
   
   - Java并发
      - [什么是乐观锁、什么是悲观锁，两种锁在Java中的具体应用场景有哪些](https://mp.weixin.qq.com/s/3KV3kpqD45ll4H7Kmy7Clw)
@@ -76,6 +79,7 @@
      - [面试被问AQS、ReentrantLock答不出来？这些知识点让我和面试官聊了半小时！](https://mp.weixin.qq.com/s/9BgfaYAdA-XrnzBSeDj5BQ)
      - [大厂面试题：你知道JUC中的Semaphore、CyclicBarrier、CountDownLatch吗](https://mp.weixin.qq.com/s/kQLUuesGE9xshMfULXeYUA)
      - [产品经理问我：手动创建线程不香吗，为什么非要用线程池呢？](https://mp.weixin.qq.com/s/51x1QlbDAiRkCUffpIYcNQ)
+     - [关于ThreadLocal的九个知识点，看完别再说不懂了！](https://mp.weixin.qq.com/s/PPjLR_-mIwMKKU48V7i04w)
   
 
 - 框架的艺术
@@ -108,14 +112,6 @@
      - [SpringBoot整合SpringSecurity详解，认证授权从未如此简单](https://mp.weixin.qq.com/s/nh3xVtl-5qmPS3Acmqgopw)
      - [SpringBoot整合Shiro详解，还在自己写登陆注册早落伍了](https://mp.weixin.qq.com/s/xsgZZYFDEnI51m2Wyh4dxg)
      - [SpringBoot如何实现异步、定时任务？](https://mp.weixin.qq.com/s/xqb32G64rwfdfOUla6ZRgg)
-  
-  - SpringCloud
-     - [使用idea搭建第一个微服务项目（附源码）](https://blog.csdn.net/qq_41973594/article/details/103377731)
-     - [Eureka基础与进阶实战](https://blog.csdn.net/qq_41973594/article/details/103432357)
-     - [ribbon的服务调用和负载均衡](https://blog.csdn.net/qq_41973594/article/details/103481333)
-     - [Feign的入门和高级使用](https://blog.csdn.net/qq_41973594/article/details/103520168)
-     - [Hystrix的入门和高级使用](https://blog.csdn.net/qq_41973594/article/details/103559788)
-     - [SpringCloud之微服务网关的入门与进阶（请求过滤、网关限流）](https://blog.csdn.net/qq_41973594/article/details/103609543)
   
   - Mq
      - [RabbitMQ的了解安装和使用](https://blog.csdn.net/qq_41973594/article/details/104363409)
@@ -156,9 +152,21 @@
   
 
 - 分布式与微服务
-  - [分布式集群环境下，如何实现每个服务的登陆认证？](https://mp.weixin.qq.com/s/Q2rTXL79bwJ0RFMcQOw3Cg)
-  - [你知道JWT是什么吗？它和Session的区别又在哪里？](https://mp.weixin.qq.com/s/-esLgvXzFgvAAJ6zGKLVgQ)
-  - []()
+  - SpringCloud
+     - [使用idea搭建第一个微服务项目（附源码）](https://blog.csdn.net/qq_41973594/article/details/103377731)
+     - [Eureka基础与进阶实战](https://blog.csdn.net/qq_41973594/article/details/103432357)
+     - [ribbon的服务调用和负载均衡](https://blog.csdn.net/qq_41973594/article/details/103481333)
+     - [Feign的入门和高级使用](https://blog.csdn.net/qq_41973594/article/details/103520168)
+     - [Hystrix的入门和高级使用](https://blog.csdn.net/qq_41973594/article/details/103559788)
+     - [SpringCloud之微服务网关的入门与进阶（请求过滤、网关限流）](https://blog.csdn.net/qq_41973594/article/details/103609543)
+  
+  - SpringCloudAlibaba
+     - [服务发现、配置中心，Nacos帮我们都搞定了](https://mp.weixin.qq.com/s/XZn9MFiyWWbe5e8Nj6D8Rg)
+
+  - 分布式相关知识点
+     - [分布式集群环境下，如何实现每个服务的登陆认证？](https://mp.weixin.qq.com/s/Q2rTXL79bwJ0RFMcQOw3Cg)
+     - [你知道JWT是什么吗？它和Session的区别又在哪里？](https://mp.weixin.qq.com/s/-esLgvXzFgvAAJ6zGKLVgQ)
+  
 
 - 每个程序员都要会Linux
   - [作为一个后端开发，你需要了解多少Nginx的知识？](https://mp.weixin.qq.com/s/YyZjC50zASkpbkq_28NnFA)
@@ -190,6 +198,7 @@
   - 基于SpingBoot开发的小功能
      - [基于SpringBoot和Redis实现短信验证码功能](https://mp.weixin.qq.com/s/_-tRSbB6leHUOfaObseZHg)
      - [基于SpringBoot实现文件的上传下载](https://mp.weixin.qq.com/s/TLGkvRxs4JWB9XXDJ4xd_A)
+     - [一步步教你如何在SpringBoot项目中引入支付功能](https://mp.weixin.qq.com/s/b-4dSdqcM1rTKgkjpb1Ceg)
      
  
    
@@ -206,6 +215,8 @@
      - [工作中只需要增删改查的程序员，别安于现状](https://blog.csdn.net/qq_41973594/article/details/109541193)
      - [坚持写技术博客，我得到了什么？](https://blog.csdn.net/qq_41973594/article/details/110147766)
      - [从考研失败到最具成长力员工，这个2020就像过山车一样](https://mp.weixin.qq.com/s/MdOxoVwmy5V_10OeyuXvAQ)
+     - [今天不聊技术，谈谈我眼中的程序员到底是个怎样的职业](https://mp.weixin.qq.com/s/RubqJyHWB6hKMY61vV298w)
+     - [平稳运行半年的系统宕机了，记录一次排错调优的全过程！](https://mp.weixin.qq.com/s/6hXUliGnU7kEMcIl37LmpQ)
      
 
 # 祝福
