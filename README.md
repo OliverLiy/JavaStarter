@@ -91,6 +91,7 @@
      - [Spring的艺术（四）：Spring5竟然可以彻底抛弃xml配置](https://blog.csdn.net/qq_41973594/article/details/111087086)
      - [Spring的艺术（五）：通俗易懂的AOP切面详解](https://blog.csdn.net/qq_41973594/article/details/111145727)
      - [Spring的艺术（六）：一文搞定Spring整合Mybatis](https://blog.csdn.net/qq_41973594/article/details/111187366)
+     - [事务Transactional注解的参数与失效场景分析](https://mp.weixin.qq.com/s/NscGYhOqofI5wFSuk5HRgA)
      
   
   - Mybatis
@@ -163,6 +164,9 @@
   - SpringCloudAlibaba
      - [服务发现、配置中心，Nacos帮我们都搞定了](https://mp.weixin.qq.com/s/XZn9MFiyWWbe5e8Nj6D8Rg)
 
+  - Dubbo
+     - [Dubbo两小时快速上手教程（直接代码、Spring、SpringBoot）](https://mp.weixin.qq.com/s/Rmm5Iqemi4cZFWTE3yDqOQ)
+
   - 分布式相关知识点
      - [分布式集群环境下，如何实现每个服务的登陆认证？](https://mp.weixin.qq.com/s/Q2rTXL79bwJ0RFMcQOw3Cg)
      - [你知道JWT是什么吗？它和Session的区别又在哪里？](https://mp.weixin.qq.com/s/-esLgvXzFgvAAJ6zGKLVgQ)
@@ -207,6 +211,13 @@
      - [如何用Java写一个规范的http接口？](https://mp.weixin.qq.com/s/hChsFGHG8hhXs5Ott7zfbg)
      - [一个成熟的Java项目如何优雅地处理异常](https://mp.weixin.qq.com/s/QzmBosy4LpdHWRqjwq7JIA)
      - [项目经理最近感觉系统慢了，想知道整个系统每个方法的执行时间](https://mp.weixin.qq.com/s/N-_bYqcoD3ymOFNAeUWBIA)
+     - [财务说账单上少了一分钱，老板看到代码气疯了](https://mp.weixin.qq.com/s/t-GdZEmAJQOmGh7Ppn_Rjg)
+     - [浅析五种最常用的Java加密算法，以后可以直接拿来用了](https://mp.weixin.qq.com/s/gNmRKqcgEZokUmDjRxPj8Q)
+     - [你真的会用idea进行debug吗？idea实用debug教程](https://mp.weixin.qq.com/s/eta532g_hJ0gubtPHBbmpw)
+     - [还不知道项目中怎么写日志？slf4j+log4j帮你搞定！](https://mp.weixin.qq.com/s/USB6b-_nQdIZGaGkvnbYVg)
+     - [如何在工作中快速上手Git](https://mp.weixin.qq.com/s/Uz947DDfsCvao_0I8vJJQw)
+     - [号称"最强API文档工具"的Swagger到底厉害在哪](https://mp.weixin.qq.com/s/9upBrkQlu0Gqe1-aLrclrQ)
+  
 
 - 我的程序人生
      - [作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
@@ -217,6 +228,8 @@
      - [从考研失败到最具成长力员工，这个2020就像过山车一样](https://mp.weixin.qq.com/s/MdOxoVwmy5V_10OeyuXvAQ)
      - [今天不聊技术，谈谈我眼中的程序员到底是个怎样的职业](https://mp.weixin.qq.com/s/RubqJyHWB6hKMY61vV298w)
      - [平稳运行半年的系统宕机了，记录一次排错调优的全过程！](https://mp.weixin.qq.com/s/6hXUliGnU7kEMcIl37LmpQ)
+     - [裸辞后，我更加自律了](https://mp.weixin.qq.com/s/WKRq_Rhm5c-kDNyb5Tkriw)
+     - [谈谈我裸辞以及一周内找到工作的经历](https://mp.weixin.qq.com/s/5cc2SDwPBSLkLRkMaC6lJA)
      
 
 # 祝福
