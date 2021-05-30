@@ -102,6 +102,7 @@
      - [Mybatis日志原来是这样使用的](https://blog.csdn.net/qq_41973594/article/details/109711808)
      - [Mybatis动态Sql详解](https://blog.csdn.net/qq_41973594/article/details/109752413)
      - [Mybatis缓存详解](https://blog.csdn.net/qq_41973594/article/details/109752413)
+     - [想在一个项目中实现多数据源切换？几行代码就搞定了](https://mp.weixin.qq.com/s/UcaxRShgiEcBmlekxX_Xjg)
   
   - SpringMVC
   
@@ -166,10 +167,17 @@
 
   - Dubbo
      - [Dubbo两小时快速上手教程（直接代码、Spring、SpringBoot）](https://mp.weixin.qq.com/s/Rmm5Iqemi4cZFWTE3yDqOQ)
+  
+  - ElasticSearch
+     - [ElasticSearch究竟是个什么东西](https://mp.weixin.qq.com/s/7Z7zD9VWXlGc7-yt7qNzfw)
+     - [通过官方文档高效学习ElasticSearch的JavaAPI实现！](https://mp.weixin.qq.com/s/rph0YIjgotM8-_9hf8rgIQ)
+     - [如何在自己的项目中引入ElasticSearch搜索引擎？](https://mp.weixin.qq.com/s/KrcKgU4CGln3YKZKWaZ4Dg)
 
-  - 分布式相关知识点
+  - 认证授权
      - [分布式集群环境下，如何实现每个服务的登陆认证？](https://mp.weixin.qq.com/s/Q2rTXL79bwJ0RFMcQOw3Cg)
      - [你知道JWT是什么吗？它和Session的区别又在哪里？](https://mp.weixin.qq.com/s/-esLgvXzFgvAAJ6zGKLVgQ)
+     - [SpringBoot+SpringSecurity实现基于真实数据的授权认证](https://mp.weixin.qq.com/s/ipxXJy6jaFbUBg9VWBp57g)
+     - [Oauth2是个什么东西？](https://mp.weixin.qq.com/s/TGJc_C2v6VkW8m-RgDlLaw)
   
 
 - 每个程序员都要会Linux
@@ -217,6 +225,7 @@
      - [还不知道项目中怎么写日志？slf4j+log4j帮你搞定！](https://mp.weixin.qq.com/s/USB6b-_nQdIZGaGkvnbYVg)
      - [如何在工作中快速上手Git](https://mp.weixin.qq.com/s/Uz947DDfsCvao_0I8vJJQw)
      - [号称"最强API文档工具"的Swagger到底厉害在哪](https://mp.weixin.qq.com/s/9upBrkQlu0Gqe1-aLrclrQ)
+     - [分享工作一年后收藏的超好用Idea插件，工作效率直接翻倍](https://mp.weixin.qq.com/s/BatK103AfP0Jx0zIT9lSAg)
   
 
 - 我的程序人生
@@ -230,6 +239,7 @@
      - [平稳运行半年的系统宕机了，记录一次排错调优的全过程！](https://mp.weixin.qq.com/s/6hXUliGnU7kEMcIl37LmpQ)
      - [裸辞后，我更加自律了](https://mp.weixin.qq.com/s/WKRq_Rhm5c-kDNyb5Tkriw)
      - [谈谈我裸辞以及一周内找到工作的经历](https://mp.weixin.qq.com/s/5cc2SDwPBSLkLRkMaC6lJA)
+     - [软件行业和互联网行业究竟有什么区别？又该如何去选择？](https://mp.weixin.qq.com/s/Qa4pyPDiaki6AeiAuwUr8Q)
      
 
 # 祝福
