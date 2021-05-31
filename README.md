@@ -4,7 +4,7 @@
 后续所有文章首发**微信公众号《Java鱼仔》**，欢迎搜索关注或者扫码关注，有任何问题或需要沟通的都可以在这里找到我。
 
 <p align="center">
-     <img src="https://github.com/OliverLiy/JavaStarter/blob/main/images/qrcode_for_gh_544708444941_344.jpg" width=""/>
+     <img src="https://gitee.com/lyucoding/java-starter/raw/master/image/qrcode_for_gh_544708444941_344.jpg" width=""/>
 </p>
 
 <p align="center">
