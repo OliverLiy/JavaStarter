@@ -34,12 +34,12 @@
      
   - 基础篇
      - [final 在 java 中有什么作用？](https://mp.weixin.qq.com/s/BLP3bG1ibNM1ly0FPAQS1g)
-     - [String str=“i”与 String str=new String(“i”)一样吗？](https://mp.weixin.qq.com/s/lWxKX1VVE2jQ0qi71F__Gw)
+     - [写了那么久的String字符串，你可能根本不懂它！](https://mp.weixin.qq.com/s/XKjAN0xGBUY4UVO3-YCi1g)
      - [两个对象的 hashCode()相同，则 equals()也一定为 true吗？](https://mp.weixin.qq.com/s/K8RuW1wsP0LRFdp8QgYFaw)
      - [抽象类必须要有抽象方法吗？抽象类能使用 final 修饰吗？](https://mp.weixin.qq.com/s/s2adv99CRvA69vFAVYAnCQ)
      - [JavaIO的整体结构以及File类的使用](https://blog.csdn.net/qq_41973594/article/details/104849452)
      - [快速学懂字节流与字符流](https://blog.csdn.net/qq_41973594/article/details/104867904)
-     - [尽可能将BIO、NIO、AIO讲得通俗易懂](https://blog.csdn.net/qq_41973594/article/details/104943131)
+     - [详解Java中的BIO、NIO、AIO](https://mp.weixin.qq.com/s/oRKjxtO_hf7OVSJ67Gt5sQ)
      - [java反射机制详解](https://mp.weixin.qq.com/s/ZBOmJ4gwpsJyQ1HF63K6Ug)
      - [java代理机制详解（静态代理、动态代理：JDK、CGlib）](https://blog.csdn.net/qq_41973594/article/details/104118797)
      - [一篇文章带你了解cloneable接口、浅拷贝、深拷贝](https://mp.weixin.qq.com/s/ceEjFw15otMGfoSKJpf0zQ)
@@ -49,6 +49,7 @@
      - [什么是接口的幂等性，如何实现接口幂等性？一文搞定](https://mp.weixin.qq.com/s/DQ_5uydWw9MelzgeFS45Wg)
      - [线程的 run()和 start()有什么区别？sleep() 和 wait() 有什么区别？](https://mp.weixin.qq.com/s/HE-vK8GR9xI9HeKWS476Jw)
      - [Java16都快上线了，你该不会连Java8的特性都不会用吧？](https://mp.weixin.qq.com/s/V_dYpY6KWpq1qyVV2rwKTA)
+     - [Java中的拦截器和过滤器有什么区别](https://mp.weixin.qq.com/s/cpMe-Qcug82qrXBSjhN5Lg)
      
   - 集合类
      - [java集合掌握多少才算合格](https://mp.weixin.qq.com/s/pG3PwS4IKqUIqJGYSmxtzg)
@@ -137,6 +138,7 @@
      - [都2020年了，你还不知道count(1)和count(*)谁效率更高吗？](https://blog.csdn.net/qq_41973594/article/details/106796388)
      - [图解Mysql索引的数据结构！看不懂你来找我](https://mp.weixin.qq.com/s/AruIsVouwMJo5zNrxHAxYA)
      - [白话Mysql的锁和事务隔离级别！死锁、间隙锁你都知道吗？](https://mp.weixin.qq.com/s/lDeEDkXZ85wNpg5Qi9ArnQ)
+     - [数据库分库分表扫盲，不会用也得知道概念](https://mp.weixin.qq.com/s/9TGypneXAYbi0LwSOfQkpw)
   
   - Redis
      - [redis入门到精通系列（一）：入门redis看这一篇就够了](https://mp.weixin.qq.com/s/T4nUo0PU9cN7qpWW5jw3UA)
@@ -179,10 +181,14 @@
      - [你知道JWT是什么吗？它和Session的区别又在哪里？](https://mp.weixin.qq.com/s/-esLgvXzFgvAAJ6zGKLVgQ)
      - [SpringBoot+SpringSecurity实现基于真实数据的授权认证](https://mp.weixin.qq.com/s/ipxXJy6jaFbUBg9VWBp57g)
      - [Oauth2是个什么东西？](https://mp.weixin.qq.com/s/TGJc_C2v6VkW8m-RgDlLaw)
+
+  - 任务调度
+     - [为什么要引入分布式任务调度系统？](https://mp.weixin.qq.com/s/yRi1YnA1rEhwgTfh4eNceg)
   
 
 - 每个程序员都要会Linux
   - [作为一个后端开发，你需要了解多少Nginx的知识？](https://mp.weixin.qq.com/s/YyZjC50zASkpbkq_28NnFA)
+  - [取经阿里十年技术大佬，得到Java线上问题排查攻略！](https://mp.weixin.qq.com/s/0lvgLX5KIoSYu5yxgKfK8Q)
 
 
 - 实战项目
@@ -228,6 +234,7 @@
      - [如何在工作中快速上手Git](https://mp.weixin.qq.com/s/Uz947DDfsCvao_0I8vJJQw)
      - [号称"最强API文档工具"的Swagger到底厉害在哪](https://mp.weixin.qq.com/s/9upBrkQlu0Gqe1-aLrclrQ)
      - [分享工作一年后收藏的超好用Idea插件，工作效率直接翻倍](https://mp.weixin.qq.com/s/BatK103AfP0Jx0zIT9lSAg)
+     - [怎样才能写出规范的好代码？](https://mp.weixin.qq.com/s/T8OXEaYjzw0ItS5mI7bDDw)
   
 
 - 我的程序人生
