@@ -33,7 +33,7 @@
 - Java核心基础
      
   - 基础篇
-     - [final 在 java 中有什么作用？](https://mp.weixin.qq.com/s/BLP3bG1ibNM1ly0FPAQS1g)
+     - [Java常用关键字：this、super、final、static、访问修饰符](https://mp.weixin.qq.com/s/n2LR0zXzHe7XRkMRT38iRQ)
      - [写了那么久的String字符串，你可能根本不懂它！](https://mp.weixin.qq.com/s/XKjAN0xGBUY4UVO3-YCi1g)
      - [两个对象的 hashCode()相同，则 equals()也一定为 true吗？](https://mp.weixin.qq.com/s/K8RuW1wsP0LRFdp8QgYFaw)
      - [抽象类必须要有抽象方法吗？抽象类能使用 final 修饰吗？](https://mp.weixin.qq.com/s/s2adv99CRvA69vFAVYAnCQ)
@@ -128,6 +128,7 @@
      - [Zookeeper实现分布式锁的原理是什么？](https://mp.weixin.qq.com/s/dLf288J_sG72EKuo_B4FeA)
   
   - Netty
+     - [网络开发的最强大框架：Netty快速入门](https://mp.weixin.qq.com/s/anVagtfsMtn_QwQQyJtvmQ)
   
   
 - 这就是数据库
@@ -184,6 +185,7 @@
 
   - 任务调度
      - [为什么要引入分布式任务调度系统？](https://mp.weixin.qq.com/s/yRi1YnA1rEhwgTfh4eNceg)
+     - [为什么说datax是目前最好的异构数据源数据交换工具](https://mp.weixin.qq.com/s/2Uzskg1Qh43QDT9YklfAUw)
   
 
 - 每个程序员都要会Linux
