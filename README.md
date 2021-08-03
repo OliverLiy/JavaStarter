@@ -43,7 +43,7 @@
      - [java反射机制详解](https://mp.weixin.qq.com/s/ZBOmJ4gwpsJyQ1HF63K6Ug)
      - [java代理机制详解（静态代理、动态代理：JDK、CGlib）](https://blog.csdn.net/qq_41973594/article/details/104118797)
      - [一篇文章带你了解cloneable接口、浅拷贝、深拷贝](https://mp.weixin.qq.com/s/ceEjFw15otMGfoSKJpf0zQ)
-     - [谈一谈session和cookie的区别，以及session的实现机制](https://mp.weixin.qq.com/s/i_Rc044w0jsaB36ABQELJA)
+     - [谈一谈session和cookie的区别，以及session的实现机制](https://mp.weixin.qq.com/s/PYaCqJ_Y-9ODuH2_wTr9jg)
      - [你知道迭代器 Iterator 是什么吗？](https://mp.weixin.qq.com/s/HSL1WE-xra_IOF59a2IlmQ)
      - [看完这篇类的实例化顺序，考执行顺序的面试题就难不倒你了](https://mp.weixin.qq.com/s/iuVsZmN6P3CY6dnFHmqoeQ)
      - [什么是接口的幂等性，如何实现接口幂等性？一文搞定](https://mp.weixin.qq.com/s/DQ_5uydWw9MelzgeFS45Wg)
@@ -59,7 +59,7 @@
      - [四千字从源码分析ConcurrentHashMap的底层原理（JDK1.8）](https://mp.weixin.qq.com/s/7qGxMr3ZP_xt97-V5pm8Ow)
   
   - JVM虚拟机
-     - [JVM的内存分代，这篇文章帮你理一理](https://mp.weixin.qq.com/s/gol03hmwu34n5-TRNLm2FQ)
+     - [JVM的内存分代，这篇文章帮你理一理](https://mp.weixin.qq.com/s/y_Img5glkZGzrLXkJBrAfw)
      - [JVM垃圾回收机制是怎样的，何时触发YoungGC或FullGC操作，一文搞定](https://mp.weixin.qq.com/s/zelYGONiIWGnUa1NgtQOMQ)
      - [关于垃圾收集器你了解多少？一文总结七大垃圾收集器](https://mp.weixin.qq.com/s/Qj9BJvlp_X2qpohX0w-ILA)
      - [图解类加载器和双亲委派机制，一看就懂](https://mp.weixin.qq.com/s/U41G0R-SNqNKaMEksuj78A)
@@ -129,6 +129,7 @@
   
   - Netty
      - [网络开发的最强大框架：Netty快速入门](https://mp.weixin.qq.com/s/anVagtfsMtn_QwQQyJtvmQ)
+     - [粘包和半包有了解过吗？netty是如何解决这个问题的](https://mp.weixin.qq.com/s/0qfTDjbdsGgsbuFxQjjKQQ)
   
   
 - 这就是数据库
@@ -187,6 +188,9 @@
      - [为什么要引入分布式任务调度系统？](https://mp.weixin.qq.com/s/yRi1YnA1rEhwgTfh4eNceg)
      - [为什么说datax是目前最好的异构数据源数据交换工具](https://mp.weixin.qq.com/s/2Uzskg1Qh43QDT9YklfAUw)
   
+
+- 设计模式
+  - [适配器模式详解与应用](https://mp.weixin.qq.com/s/os9xMef6-7IHkZgXjMw_1w)
 
 - 每个程序员都要会Linux
   - [作为一个后端开发，你需要了解多少Nginx的知识？](https://mp.weixin.qq.com/s/YyZjC50zASkpbkq_28NnFA)
