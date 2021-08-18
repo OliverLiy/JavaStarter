@@ -62,10 +62,11 @@
      - [JVM的内存分代，这篇文章帮你理一理](https://mp.weixin.qq.com/s/y_Img5glkZGzrLXkJBrAfw)
      - [JVM垃圾回收机制是怎样的，何时触发YoungGC或FullGC操作，一文搞定](https://mp.weixin.qq.com/s/zelYGONiIWGnUa1NgtQOMQ)
      - [关于垃圾收集器你了解多少？一文总结七大垃圾收集器](https://mp.weixin.qq.com/s/Qj9BJvlp_X2qpohX0w-ILA)
+     - [深入浅出CMS垃圾收集器](https://mp.weixin.qq.com/s/FMiKiieWA00HlSlWfpZSMA)
      - [图解类加载器和双亲委派机制，一看就懂](https://mp.weixin.qq.com/s/U41G0R-SNqNKaMEksuj78A)
      - [类加载的全过程，我给大家理一理](https://mp.weixin.qq.com/s/ys1_2panH5RQiACRNcGfXA)
      - [关于JVM调优，我理了一些工具和思路出来](https://mp.weixin.qq.com/s/XzHJiQ-zmY3uyjYZiFcsDw)
-     - 
+     
   
   - Java并发
      - [什么是乐观锁、什么是悲观锁，两种锁在Java中的具体应用场景有哪些](https://mp.weixin.qq.com/s/3KV3kpqD45ll4H7Kmy7Clw)
@@ -191,6 +192,7 @@
 
 - 设计模式
   - [适配器模式详解与应用](https://mp.weixin.qq.com/s/os9xMef6-7IHkZgXjMw_1w)
+  - [迭代器模式：理解与实践](https://mp.weixin.qq.com/s/W7udykGx-w2Sz4BD0zqc5w)
 
 - 每个程序员都要会Linux
   - [作为一个后端开发，你需要了解多少Nginx的知识？](https://mp.weixin.qq.com/s/YyZjC50zASkpbkq_28NnFA)
@@ -241,6 +243,7 @@
      - [号称"最强API文档工具"的Swagger到底厉害在哪](https://mp.weixin.qq.com/s/9upBrkQlu0Gqe1-aLrclrQ)
      - [分享工作一年后收藏的超好用Idea插件，工作效率直接翻倍](https://mp.weixin.qq.com/s/BatK103AfP0Jx0zIT9lSAg)
      - [怎样才能写出规范的好代码？](https://mp.weixin.qq.com/s/T8OXEaYjzw0ItS5mI7bDDw)
+     - [如何上传自己的jar包到maven中央仓库（2021最新版）](https://mp.weixin.qq.com/s/s-NfvoVW47_53RqshexfSg)
   
 
 - 我的程序人生
