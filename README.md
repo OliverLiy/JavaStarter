@@ -4,7 +4,7 @@
 后续所有文章首发**微信公众号《Java鱼仔》**，欢迎搜索关注或者扫码关注，有任何问题或需要沟通的都可以在这里找到我。
 
 <p align="center">
-     <img src="https://gitee.com/lyucoding/java-starter/raw/master/image/qrcode_for_gh_544708444941_344.jpg" width=""/>
+     <img src="https://gitee.com/lyucoding/java-starter/raw/main/images/qrcode_for_gh_544708444941_344.jpg" width=""/>
 </p>
 
 <p align="center">
@@ -65,6 +65,7 @@
      - [图解类加载器和双亲委派机制，一看就懂](https://mp.weixin.qq.com/s/U41G0R-SNqNKaMEksuj78A)
      - [类加载的全过程，我给大家理一理](https://mp.weixin.qq.com/s/ys1_2panH5RQiACRNcGfXA)
      - [关于JVM调优，我理了一些工具和思路出来](https://mp.weixin.qq.com/s/XzHJiQ-zmY3uyjYZiFcsDw)
+     - [两张图让你快速读懂JVM字节码指令](https://mp.weixin.qq.com/s/CwPE03EPY_eQfffbjXSpUg)
      
   
   - Java并发
@@ -104,6 +105,7 @@
      - [Mybatis动态Sql详解](https://blog.csdn.net/qq_41973594/article/details/109752413)
      - [Mybatis缓存详解](https://blog.csdn.net/qq_41973594/article/details/109752413)
      - [想在一个项目中实现多数据源切换？几行代码就搞定了](https://mp.weixin.qq.com/s/UcaxRShgiEcBmlekxX_Xjg)
+     - [用了MybatisPlus后，我很久没有手写sql了](https://mp.weixin.qq.com/s/Uyl3SG6l8oI4O-lrRfGnUQ)
   
   - SpringMVC
   
@@ -193,6 +195,7 @@
 - 设计模式
   - [适配器模式详解与应用](https://mp.weixin.qq.com/s/os9xMef6-7IHkZgXjMw_1w)
   - [迭代器模式：理解与实践](https://mp.weixin.qq.com/s/W7udykGx-w2Sz4BD0zqc5w)
+  - [模板方法设计模式理论与应用](https://mp.weixin.qq.com/s/g9BnTLmGmSKxbqdo8Zj2eg)
 
 - 每个程序员都要会Linux
   - [作为一个后端开发，你需要了解多少Nginx的知识？](https://mp.weixin.qq.com/s/YyZjC50zASkpbkq_28NnFA)
