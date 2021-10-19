@@ -44,9 +44,7 @@
      - [java代理机制详解（静态代理、动态代理：JDK、CGlib）](https://blog.csdn.net/qq_41973594/article/details/104118797)
      - [一篇文章带你了解cloneable接口、浅拷贝、深拷贝](https://mp.weixin.qq.com/s/ceEjFw15otMGfoSKJpf0zQ)
      - [谈一谈session和cookie的区别，以及session的实现机制](https://mp.weixin.qq.com/s/PYaCqJ_Y-9ODuH2_wTr9jg)
-     - [看完这篇类的实例化顺序，考执行顺序的面试题就难不倒你了](https://mp.weixin.qq.com/s/iuVsZmN6P3CY6dnFHmqoeQ)
      - [什么是接口的幂等性，如何实现接口幂等性？一文搞定](https://mp.weixin.qq.com/s/DQ_5uydWw9MelzgeFS45Wg)
-     - [线程的 run()和 start()有什么区别？sleep() 和 wait() 有什么区别？](https://mp.weixin.qq.com/s/HE-vK8GR9xI9HeKWS476Jw)
      - [Java16都快上线了，你该不会连Java8的特性都不会用吧？](https://mp.weixin.qq.com/s/V_dYpY6KWpq1qyVV2rwKTA)
      - [Java中的拦截器和过滤器有什么区别](https://mp.weixin.qq.com/s/cpMe-Qcug82qrXBSjhN5Lg)
      
@@ -63,24 +61,20 @@
      - [关于垃圾收集器你了解多少？一文总结七大垃圾收集器](https://mp.weixin.qq.com/s/Qj9BJvlp_X2qpohX0w-ILA)
      - [深入浅出CMS垃圾收集器](https://mp.weixin.qq.com/s/FMiKiieWA00HlSlWfpZSMA)
      - [图解类加载器和双亲委派机制，一看就懂](https://mp.weixin.qq.com/s/U41G0R-SNqNKaMEksuj78A)
-     - [类加载的全过程，我给大家理一理](https://mp.weixin.qq.com/s/ys1_2panH5RQiACRNcGfXA)
      - [关于JVM调优，我理了一些工具和思路出来](https://mp.weixin.qq.com/s/XzHJiQ-zmY3uyjYZiFcsDw)
      - [两张图让你快速读懂JVM字节码指令](https://mp.weixin.qq.com/s/CwPE03EPY_eQfffbjXSpUg)
+     - [从JVM角度思考--如何预估线上环境机器资源大小](https://mp.weixin.qq.com/s/v2jZY2VBFxhXSqNTY40osg)
      
   
   - Java并发
-     - [什么是乐观锁、什么是悲观锁，两种锁在Java中的具体应用场景有哪些](https://mp.weixin.qq.com/s/3KV3kpqD45ll4H7Kmy7Clw)
-     - [你能说出四种创建线程的方式吗？](https://mp.weixin.qq.com/s/XiFGVTI5--RANi5sHAIkjA)
-     - [说一下runnable 和 callable 有什么区别？Future是什么？](https://mp.weixin.qq.com/s/OyCm-mM4wveceGk6Ehg9Ig)
-     - [如何让多个线程按顺序执行？](https://mp.weixin.qq.com/s/oVnkrDsFo3LjLlr03rOZnw)
-     - [面试官：不会真有人不知道什么是线程池吧？](https://blog.csdn.net/qq_41973594/article/details/106982052)
+     - [产品经理问我：手动创建线程不香吗，为什么非要用线程池呢？](https://mp.weixin.qq.com/s/51x1QlbDAiRkCUffpIYcNQ)
+     - [用几张图深度剖析Java运行时数据区](https://mp.weixin.qq.com/s/t6xvP28HP2tQN-t9T72FbQ)
      - [面试官：我问的是Java内存模型，你回答堆栈方法区干嘛？](https://mp.weixin.qq.com/s/4NHC9Fmk7eiiI8UHrnYNOA)
      - [指令重排序、内存屏障很难？看完这篇你就懂了！](https://mp.weixin.qq.com/s/YBr32zvQ00EesLRUnx__Jw)
      - [Volatile只会用不知道原理？一篇文章带你深究volatile](https://mp.weixin.qq.com/s/IOD6l9s0JN9VJXNlm07yJQ)
      - [有关synchronized锁的知识点，我用一篇文章总结了](https://mp.weixin.qq.com/s/hy42BV48RjOzkkXeDL-wZA)
      - [面试被问AQS、ReentrantLock答不出来？这些知识点让我和面试官聊了半小时！](https://mp.weixin.qq.com/s/9BgfaYAdA-XrnzBSeDj5BQ)
      - [大厂面试题：你知道JUC中的Semaphore、CyclicBarrier、CountDownLatch吗](https://mp.weixin.qq.com/s/kQLUuesGE9xshMfULXeYUA)
-     - [产品经理问我：手动创建线程不香吗，为什么非要用线程池呢？](https://mp.weixin.qq.com/s/51x1QlbDAiRkCUffpIYcNQ)
      - [关于ThreadLocal的九个知识点，看完别再说不懂了！](https://mp.weixin.qq.com/s/PPjLR_-mIwMKKU48V7i04w)
   
 
@@ -94,7 +88,7 @@
      - [Spring的艺术（五）：通俗易懂的AOP切面详解](https://blog.csdn.net/qq_41973594/article/details/111145727)
      - [Spring的艺术（六）：一文搞定Spring整合Mybatis](https://blog.csdn.net/qq_41973594/article/details/111187366)
      - [事务Transactional注解的参数与失效场景分析](https://mp.weixin.qq.com/s/NscGYhOqofI5wFSuk5HRgA)
-     
+     - [写了两年代码之后再来看看Spring中的Bean](https://mp.weixin.qq.com/s/0IfcSwtObsY44VnYhbjKEg)
   
   - Mybatis
      - [Mybatis的原理介绍及超详细使用](https://blog.csdn.net/qq_41973594/article/details/109557341)
@@ -247,6 +241,7 @@
      - [分享工作一年后收藏的超好用Idea插件，工作效率直接翻倍](https://mp.weixin.qq.com/s/BatK103AfP0Jx0zIT9lSAg)
      - [怎样才能写出规范的好代码？](https://mp.weixin.qq.com/s/T8OXEaYjzw0ItS5mI7bDDw)
      - [如何上传自己的jar包到maven中央仓库（2021最新版）](https://mp.weixin.qq.com/s/s-NfvoVW47_53RqshexfSg)
+     - [使用Optional更优雅地处理非空判断](https://mp.weixin.qq.com/s/w19rwScpBxKQLABAa3QjUw)
   
 
 - 我的程序人生
@@ -261,6 +256,7 @@
      - [裸辞后，我更加自律了](https://mp.weixin.qq.com/s/WKRq_Rhm5c-kDNyb5Tkriw)
      - [谈谈我裸辞以及一周内找到工作的经历](https://mp.weixin.qq.com/s/5cc2SDwPBSLkLRkMaC6lJA)
      - [软件行业和互联网行业究竟有什么区别？又该如何去选择？](https://mp.weixin.qq.com/s/Qa4pyPDiaki6AeiAuwUr8Q)
+     - [1到3年的Java开发工程师应该如何准备面试](https://mp.weixin.qq.com/s/508V1wFU1X8khI7dxStGXA)
      
 
 # 祝福
