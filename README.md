@@ -47,6 +47,7 @@
      - [什么是接口的幂等性，如何实现接口幂等性？一文搞定](https://mp.weixin.qq.com/s/DQ_5uydWw9MelzgeFS45Wg)
      - [Java16都快上线了，你该不会连Java8的特性都不会用吧？](https://mp.weixin.qq.com/s/V_dYpY6KWpq1qyVV2rwKTA)
      - [Java中的拦截器和过滤器有什么区别](https://mp.weixin.qq.com/s/cpMe-Qcug82qrXBSjhN5Lg)
+     - [你能保证你的代码没有异常吗？](https://mp.weixin.qq.com/s/SD0KAHkR-YBDBa9cx7EkjA)
      
   - 集合类
      - [java集合掌握多少才算合格](https://mp.weixin.qq.com/s/pG3PwS4IKqUIqJGYSmxtzg)
@@ -89,6 +90,7 @@
      - [Spring的艺术（六）：一文搞定Spring整合Mybatis](https://blog.csdn.net/qq_41973594/article/details/111187366)
      - [事务Transactional注解的参数与失效场景分析](https://mp.weixin.qq.com/s/NscGYhOqofI5wFSuk5HRgA)
      - [写了两年代码之后再来看看Spring中的Bean](https://mp.weixin.qq.com/s/0IfcSwtObsY44VnYhbjKEg)
+     - [这次终于把Spring的监听器讲明白了](https://mp.weixin.qq.com/s/hlvLmQAEyMM64ub1wTHXcQ)
   
   - Mybatis
      - [Mybatis的原理介绍及超详细使用](https://blog.csdn.net/qq_41973594/article/details/109557341)
@@ -111,6 +113,7 @@
      - [SpringBoot整合SpringSecurity详解，认证授权从未如此简单](https://mp.weixin.qq.com/s/nh3xVtl-5qmPS3Acmqgopw)
      - [SpringBoot整合Shiro详解，还在自己写登陆注册早落伍了](https://mp.weixin.qq.com/s/xsgZZYFDEnI51m2Wyh4dxg)
      - [SpringBoot如何实现异步、定时任务？](https://mp.weixin.qq.com/s/xqb32G64rwfdfOUla6ZRgg)
+     - [如何在SpringBoot启动时执行初始化操作，两个简单接口就可以实现](https://mp.weixin.qq.com/s/RjD2tg0ZSPcFNbikP0vc1g)
   
   - Mq
      - [RabbitMQ的了解安装和使用](https://blog.csdn.net/qq_41973594/article/details/104363409)
@@ -190,6 +193,7 @@
   - [适配器模式详解与应用](https://mp.weixin.qq.com/s/os9xMef6-7IHkZgXjMw_1w)
   - [迭代器模式：理解与实践](https://mp.weixin.qq.com/s/W7udykGx-w2Sz4BD0zqc5w)
   - [模板方法设计模式理论与应用](https://mp.weixin.qq.com/s/g9BnTLmGmSKxbqdo8Zj2eg)
+  - [快速理解工厂方法模式，及其在源码中的应用](https://mp.weixin.qq.com/s/WkQw0CyC8v3OR2ruliTxBA)
 
 - 每个程序员都要会Linux
   - [作为一个后端开发，你需要了解多少Nginx的知识？](https://mp.weixin.qq.com/s/YyZjC50zASkpbkq_28NnFA)
@@ -227,7 +231,7 @@
      
  
    
-- 开发工具大全
+- 开发经验大全
      - [一个包含多种Get请求和Post请求的工具类](https://blog.csdn.net/qq_41973594?spm=1000.2115.3001.5113)
      - [如何用Java写一个规范的http接口？](https://mp.weixin.qq.com/s/hChsFGHG8hhXs5Ott7zfbg)
      - [一个成熟的Java项目如何优雅地处理异常](https://mp.weixin.qq.com/s/QzmBosy4LpdHWRqjwq7JIA)
@@ -242,6 +246,9 @@
      - [怎样才能写出规范的好代码？](https://mp.weixin.qq.com/s/T8OXEaYjzw0ItS5mI7bDDw)
      - [如何上传自己的jar包到maven中央仓库（2021最新版）](https://mp.weixin.qq.com/s/s-NfvoVW47_53RqshexfSg)
      - [使用Optional更优雅地处理非空判断](https://mp.weixin.qq.com/s/w19rwScpBxKQLABAa3QjUw)
+     - [查准考证网站卡了整整一个小时进不去，被抢票支配的恐惧又来了](https://mp.weixin.qq.com/s/GyQaw5nsHsY7t3WFCEPAzQ)
+     - [线上报了内存溢出异常，又不完全是内存溢出](https://mp.weixin.qq.com/s/OLbZAX6tqlYJDP_2T4DqdQ)
+     
   
 
 - 我的程序人生
@@ -257,7 +264,7 @@
      - [谈谈我裸辞以及一周内找到工作的经历](https://mp.weixin.qq.com/s/5cc2SDwPBSLkLRkMaC6lJA)
      - [软件行业和互联网行业究竟有什么区别？又该如何去选择？](https://mp.weixin.qq.com/s/Qa4pyPDiaki6AeiAuwUr8Q)
      - [1到3年的Java开发工程师应该如何准备面试](https://mp.weixin.qq.com/s/508V1wFU1X8khI7dxStGXA)
-     
+     - [互联网公司的完整开发流程是怎样的？](https://mp.weixin.qq.com/s/rS3Bz8moinOAKo_5ANrL6g)
 
 # 祝福
 
