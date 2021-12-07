@@ -99,7 +99,7 @@
      - [MyBatis实现复杂环境的Sql查询](https://blog.csdn.net/qq_41973594/article/details/109683869)
      - [Mybatis日志原来是这样使用的](https://blog.csdn.net/qq_41973594/article/details/109711808)
      - [Mybatis动态Sql详解](https://blog.csdn.net/qq_41973594/article/details/109752413)
-     - [Mybatis缓存详解](https://blog.csdn.net/qq_41973594/article/details/109752413)
+     - [Mybatis缓存详解](https://javayz.blog.csdn.net/article/details/109830210)
      - [想在一个项目中实现多数据源切换？几行代码就搞定了](https://mp.weixin.qq.com/s/UcaxRShgiEcBmlekxX_Xjg)
      - [用了MybatisPlus后，我很久没有手写sql了](https://mp.weixin.qq.com/s/Uyl3SG6l8oI4O-lrRfGnUQ)
   
