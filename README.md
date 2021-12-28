@@ -155,6 +155,8 @@
      - [redis入门到精通系列（十一）：redis的缓存穿透、缓存击穿以及缓存雪崩](https://mp.weixin.qq.com/s/E48J2R9roj8gV5soOC4b4A)
      - [redis入门到精通系列（十二）：看完这一篇文章别再说不懂布隆过滤器](https://mp.weixin.qq.com/s/Z0Td6XgQ36imsQaIN-YzmA)
   
+  - MongoDB
+     - [MongoDB快速上手，聊聊这款火了一阵又销声匿迹的非关系型数据库](https://mp.weixin.qq.com/s/rgkm6HxhZ3ho7Y9PUpAAnA)
 
 - 分布式与微服务
   - SpringCloud
@@ -168,16 +170,11 @@
   - SpringCloudAlibaba
      - [服务发现、配置中心，Nacos帮我们都搞定了](https://mp.weixin.qq.com/s/XZn9MFiyWWbe5e8Nj6D8Rg)
      - [Sentinel快速入门：这可能是目前最好的分布式系统限流降级框架](https://mp.weixin.qq.com/s/G02A6IX-uaRQP_d9ki1s1w)
+     - [基于SpringCloudGateway实现微服务网关](https://mp.weixin.qq.com/s/zlv6uyrghHdYk-6FrJiF5w)
 
   - Dubbo
      - [Dubbo两小时快速上手教程（直接代码、Spring、SpringBoot）](https://mp.weixin.qq.com/s/Rmm5Iqemi4cZFWTE3yDqOQ)
-  
-  - ElasticSearch
-     - [ElasticSearch究竟是个什么东西](https://mp.weixin.qq.com/s/7Z7zD9VWXlGc7-yt7qNzfw)
-     - [通过官方文档高效学习ElasticSearch的JavaAPI实现！](https://mp.weixin.qq.com/s/rph0YIjgotM8-_9hf8rgIQ)
-     - [如何在自己的项目中引入ElasticSearch搜索引擎？](https://mp.weixin.qq.com/s/KrcKgU4CGln3YKZKWaZ4Dg)
-     - [ElasticSearch聚合查询Restful语法和JavaApi详解（基于ES7.6）](https://mp.weixin.qq.com/s/-1NcenPNrwd0C0UJrUwlhQ)
-
+     
   - 认证授权
      - [分布式集群环境下，如何实现每个服务的登陆认证？](https://mp.weixin.qq.com/s/Q2rTXL79bwJ0RFMcQOw3Cg)
      - [你知道JWT是什么吗？它和Session的区别又在哪里？](https://mp.weixin.qq.com/s/-esLgvXzFgvAAJ6zGKLVgQ)
@@ -188,17 +185,26 @@
      - [为什么要引入分布式任务调度系统？](https://mp.weixin.qq.com/s/yRi1YnA1rEhwgTfh4eNceg)
      - [为什么说datax是目前最好的异构数据源数据交换工具](https://mp.weixin.qq.com/s/2Uzskg1Qh43QDT9YklfAUw)
   
+- 大数据技术
+
+  - ElasticSearch
+    - [ElasticSearch究竟是个什么东西](https://mp.weixin.qq.com/s/7Z7zD9VWXlGc7-yt7qNzfw)
+    - [通过官方文档高效学习ElasticSearch的JavaAPI实现！](https://mp.weixin.qq.com/s/rph0YIjgotM8-_9hf8rgIQ)
+    - [如何在自己的项目中引入ElasticSearch搜索引擎？](https://mp.weixin.qq.com/s/KrcKgU4CGln3YKZKWaZ4Dg)
+    - [ElasticSearch聚合查询Restful语法和JavaApi详解（基于ES7.6）](https://mp.weixin.qq.com/s/-1NcenPNrwd0C0UJrUwlhQ)
+    - [深入了解ElasticSearch的Nested数据类型](https://mp.weixin.qq.com/s/11YdA8cGC_YdXOKfyydFLA)
 
 - 设计模式
   - [适配器模式详解与应用](https://mp.weixin.qq.com/s/os9xMef6-7IHkZgXjMw_1w)
   - [迭代器模式：理解与实践](https://mp.weixin.qq.com/s/W7udykGx-w2Sz4BD0zqc5w)
   - [模板方法设计模式理论与应用](https://mp.weixin.qq.com/s/g9BnTLmGmSKxbqdo8Zj2eg)
   - [快速理解工厂方法模式，及其在源码中的应用](https://mp.weixin.qq.com/s/WkQw0CyC8v3OR2ruliTxBA)
+  - [详解单例模式及其在Sping中的最优实践](https://mp.weixin.qq.com/s/rNd3DeCRkTL9GLXsgbU6Bg)
 
 - 每个程序员都要会Linux
   - [作为一个后端开发，你需要了解多少Nginx的知识？](https://mp.weixin.qq.com/s/YyZjC50zASkpbkq_28NnFA)
   - [取经阿里十年技术大佬，得到Java线上问题排查攻略！](https://mp.weixin.qq.com/s/0lvgLX5KIoSYu5yxgKfK8Q)
-
+  
 
 - 实战项目
 
