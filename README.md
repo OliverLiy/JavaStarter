@@ -194,12 +194,21 @@
     - [ElasticSearch聚合查询Restful语法和JavaApi详解（基于ES7.6）](https://mp.weixin.qq.com/s/-1NcenPNrwd0C0UJrUwlhQ)
     - [深入了解ElasticSearch的Nested数据类型](https://mp.weixin.qq.com/s/11YdA8cGC_YdXOKfyydFLA)
 
+  - Spark
+    - [十亿条数据需要每天计算怎么办？Spark快速入门](https://mp.weixin.qq.com/s/dwRqUU8YYD9PgvZkFCJDsA)
+    - [学会RDD就学会了Spark，Spark数据结构RDD快速入门](https://mp.weixin.qq.com/s/YPLkJA3Afvfq7VW_aR0B4Q)
+    - [像写SQL一样去处理内存中的数据，SparkSQL入门教程](https://mp.weixin.qq.com/s/illVY_7jE4K06EWVGzAoHA)
+  
+  - Kafka
+    - [大数据场景下的消息队列：Kafka3.0快速入门](https://mp.weixin.qq.com/s/Bq26VZrwz8Wh7WTOi0Gy9A)
+
 - 设计模式
   - [适配器模式详解与应用](https://mp.weixin.qq.com/s/os9xMef6-7IHkZgXjMw_1w)
   - [迭代器模式：理解与实践](https://mp.weixin.qq.com/s/W7udykGx-w2Sz4BD0zqc5w)
   - [模板方法设计模式理论与应用](https://mp.weixin.qq.com/s/g9BnTLmGmSKxbqdo8Zj2eg)
   - [快速理解工厂方法模式，及其在源码中的应用](https://mp.weixin.qq.com/s/WkQw0CyC8v3OR2ruliTxBA)
   - [详解单例模式及其在Sping中的最优实践](https://mp.weixin.qq.com/s/rNd3DeCRkTL9GLXsgbU6Bg)
+  - [【设计模式】快速理解原型模式，及其在源码中的应用](https://mp.weixin.qq.com/s/kz_R42lEUkLRNLt1IhJqEA)
 
 - 每个程序员都要会Linux
   - [作为一个后端开发，你需要了解多少Nginx的知识？](https://mp.weixin.qq.com/s/YyZjC50zASkpbkq_28NnFA)
@@ -271,6 +280,7 @@
      - [软件行业和互联网行业究竟有什么区别？又该如何去选择？](https://mp.weixin.qq.com/s/Qa4pyPDiaki6AeiAuwUr8Q)
      - [1到3年的Java开发工程师应该如何准备面试](https://mp.weixin.qq.com/s/508V1wFU1X8khI7dxStGXA)
      - [互联网公司的完整开发流程是怎样的？](https://mp.weixin.qq.com/s/rS3Bz8moinOAKo_5ANrL6g)
+     - [【2021总结】工作时间从865到995，这一年的变化真大](https://mp.weixin.qq.com/s/kldXMRl6fu996NA-mdRjfA)
 
 # 祝福
 
