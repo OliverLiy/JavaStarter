@@ -71,7 +71,7 @@
      - [产品经理问我：手动创建线程不香吗，为什么非要用线程池呢？](https://mp.weixin.qq.com/s/51x1QlbDAiRkCUffpIYcNQ)
      - [用几张图深度剖析Java运行时数据区](https://mp.weixin.qq.com/s/t6xvP28HP2tQN-t9T72FbQ)
      - [面试官：我问的是Java内存模型，你回答堆栈方法区干嘛？](https://mp.weixin.qq.com/s/4NHC9Fmk7eiiI8UHrnYNOA)
-     - [指令重排序、内存屏障很难？看完这篇你就懂了！](https://mp.weixin.qq.com/s/YBr32zvQ00EesLRUnx__Jw)
+     - [指令重排序、内存屏障很难？看完这篇你就懂了！](https://blog.csdn.net/qq_41973594/article/details/110452849)
      - [Volatile只会用不知道原理？一篇文章带你深究volatile](https://mp.weixin.qq.com/s/IOD6l9s0JN9VJXNlm07yJQ)
      - [有关synchronized锁的知识点，我用一篇文章总结了](https://mp.weixin.qq.com/s/hy42BV48RjOzkkXeDL-wZA)
      - [面试被问AQS、ReentrantLock答不出来？这些知识点让我和面试官聊了半小时！](https://mp.weixin.qq.com/s/9BgfaYAdA-XrnzBSeDj5BQ)
