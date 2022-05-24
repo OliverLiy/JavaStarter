@@ -48,6 +48,7 @@
      - [Java16都快上线了，你该不会连Java8的特性都不会用吧？](https://mp.weixin.qq.com/s/V_dYpY6KWpq1qyVV2rwKTA)
      - [Java中的拦截器和过滤器有什么区别](https://mp.weixin.qq.com/s/cpMe-Qcug82qrXBSjhN5Lg)
      - [你能保证你的代码没有异常吗？](https://mp.weixin.qq.com/s/SD0KAHkR-YBDBa9cx7EkjA)
+     - [时间类有多复杂，JDK竟设计了三版](https://mp.weixin.qq.com/s/Fy9EsF3mV0OM8AbofaQOtA)
      
   - 集合类
      - [java集合掌握多少才算合格](https://mp.weixin.qq.com/s/pG3PwS4IKqUIqJGYSmxtzg)
@@ -91,6 +92,7 @@
      - [事务Transactional注解的参数与失效场景分析](https://mp.weixin.qq.com/s/NscGYhOqofI5wFSuk5HRgA)
      - [写了两年代码之后再来看看Spring中的Bean](https://mp.weixin.qq.com/s/0IfcSwtObsY44VnYhbjKEg)
      - [这次终于把Spring的监听器讲明白了](https://mp.weixin.qq.com/s/hlvLmQAEyMM64ub1wTHXcQ)
+     - [你真的了解Maven吗？](https://mp.weixin.qq.com/s/sWY7nYgixZE8usojNkJnfw)
   
   - Mybatis
      - [Mybatis的原理介绍及超详细使用](https://blog.csdn.net/qq_41973594/article/details/109557341)
@@ -114,6 +116,7 @@
      - [SpringBoot整合Shiro详解，还在自己写登陆注册早落伍了](https://mp.weixin.qq.com/s/xsgZZYFDEnI51m2Wyh4dxg)
      - [SpringBoot如何实现异步、定时任务？](https://mp.weixin.qq.com/s/xqb32G64rwfdfOUla6ZRgg)
      - [如何在SpringBoot启动时执行初始化操作，两个简单接口就可以实现](https://mp.weixin.qq.com/s/RjD2tg0ZSPcFNbikP0vc1g)
+     - [如何使用SpringBoot写一个属于自己的Starter](https://mp.weixin.qq.com/s/MbMUzdqS3E9tNN1JnkGk8w)
   
   - Mq
      - [RabbitMQ的了解安装和使用](https://blog.csdn.net/qq_41973594/article/details/104363409)
@@ -137,6 +140,7 @@
      - [一文汇总数据库基础知识点！](https://mp.weixin.qq.com/s/Sq522MHEBc5WgR3ngywJ6Q)
      - [Mysql的索引调优详解：如何去创建索引以及避免索引失效](https://blog.csdn.net/qq_41973594/article/details/105045799)
      - [都2020年了，你还不知道count(1)和count(*)谁效率更高吗？](https://blog.csdn.net/qq_41973594/article/details/106796388)
+     - [简单聊聊MySQL中的六种日志](https://mp.weixin.qq.com/s/RiDfbpC2igzN4sbQ7C0szw)
      - [图解Mysql索引的数据结构！看不懂你来找我](https://mp.weixin.qq.com/s/AruIsVouwMJo5zNrxHAxYA)
      - [白话Mysql的锁和事务隔离级别！死锁、间隙锁你都知道吗？](https://mp.weixin.qq.com/s/lDeEDkXZ85wNpg5Qi9ArnQ)
      - [数据库分库分表扫盲，不会用也得知道概念](https://mp.weixin.qq.com/s/9TGypneXAYbi0LwSOfQkpw)
@@ -198,9 +202,11 @@
     - [十亿条数据需要每天计算怎么办？Spark快速入门](https://mp.weixin.qq.com/s/dwRqUU8YYD9PgvZkFCJDsA)
     - [学会RDD就学会了Spark，Spark数据结构RDD快速入门](https://mp.weixin.qq.com/s/YPLkJA3Afvfq7VW_aR0B4Q)
     - [像写SQL一样去处理内存中的数据，SparkSQL入门教程](https://mp.weixin.qq.com/s/illVY_7jE4K06EWVGzAoHA)
+    - [Spark算子实战Java版，学到了](https://mp.weixin.qq.com/s/Wl-_k9dEZjCk1qhY5NLGFA)
   
   - Kafka
     - [大数据场景下的消息队列：Kafka3.0快速入门](https://mp.weixin.qq.com/s/Bq26VZrwz8Wh7WTOi0Gy9A)
+    - [Kafka生产者是如何发送消息的？](https://mp.weixin.qq.com/s/8u_6M2NF9GEsg98jARVLcA)
 
 - 设计模式
   - [适配器模式详解与应用](https://mp.weixin.qq.com/s/os9xMef6-7IHkZgXjMw_1w)
@@ -208,7 +214,11 @@
   - [模板方法设计模式理论与应用](https://mp.weixin.qq.com/s/g9BnTLmGmSKxbqdo8Zj2eg)
   - [快速理解工厂方法模式，及其在源码中的应用](https://mp.weixin.qq.com/s/WkQw0CyC8v3OR2ruliTxBA)
   - [详解单例模式及其在Sping中的最优实践](https://mp.weixin.qq.com/s/rNd3DeCRkTL9GLXsgbU6Bg)
-  - [【设计模式】快速理解原型模式，及其在源码中的应用](https://mp.weixin.qq.com/s/kz_R42lEUkLRNLt1IhJqEA)
+  - [快速理解原型模式，及其在源码中的应用](https://mp.weixin.qq.com/s/kz_R42lEUkLRNLt1IhJqEA)
+  - [快速理解建造者模式，及其在JDK源码中的应用](https://mp.weixin.qq.com/s/HcrJMZhUObx2nTecQUqXOw)
+  - [最实用的设计模式：策略模式的快速理解](https://mp.weixin.qq.com/s/NGT8Z8BO53AjGLs5KWX_mw)
+  - [快速理解装饰者模式，及其在JDK源码中的应用](https://mp.weixin.qq.com/s/hq6Qj8i5IVjF0W_eDl2eCA)
+  - [快速理解观察者模式，原来它还有这么多其他名字](https://mp.weixin.qq.com/s/rM3ygS4gP_-saZdTfAfMCQ)
 
 - 每个程序员都要会Linux
   - [作为一个后端开发，你需要了解多少Nginx的知识？](https://mp.weixin.qq.com/s/YyZjC50zASkpbkq_28NnFA)
