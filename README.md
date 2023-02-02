@@ -59,6 +59,7 @@
   
   - JVM虚拟机
      - [JVM的内存分代，这篇文章帮你理一理](https://mp.weixin.qq.com/s/y_Img5glkZGzrLXkJBrAfw)
+     - [用几张图深度剖析Java运行时数据区](https://mp.weixin.qq.com/s/t6xvP28HP2tQN-t9T72FbQ)
      - [JVM垃圾回收机制是怎样的，何时触发YoungGC或FullGC操作，一文搞定](https://mp.weixin.qq.com/s/zelYGONiIWGnUa1NgtQOMQ)
      - [关于垃圾收集器你了解多少？一文总结七大垃圾收集器](https://mp.weixin.qq.com/s/Qj9BJvlp_X2qpohX0w-ILA)
      - [深入浅出CMS垃圾收集器](https://mp.weixin.qq.com/s/FMiKiieWA00HlSlWfpZSMA)
@@ -70,7 +71,6 @@
   
   - Java并发
      - [产品经理问我：手动创建线程不香吗，为什么非要用线程池呢？](https://mp.weixin.qq.com/s/51x1QlbDAiRkCUffpIYcNQ)
-     - [用几张图深度剖析Java运行时数据区](https://mp.weixin.qq.com/s/t6xvP28HP2tQN-t9T72FbQ)
      - [面试官：我问的是Java内存模型，你回答堆栈方法区干嘛？](https://mp.weixin.qq.com/s/4NHC9Fmk7eiiI8UHrnYNOA)
      - [指令重排序、内存屏障很难？看完这篇你就懂了！](https://blog.csdn.net/qq_41973594/article/details/110452849)
      - [Volatile只会用不知道原理？一篇文章带你深究volatile](https://mp.weixin.qq.com/s/IOD6l9s0JN9VJXNlm07yJQ)
